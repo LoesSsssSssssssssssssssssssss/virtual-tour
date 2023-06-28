@@ -108,8 +108,8 @@ a:hover {
   margin-left: 9%;
 }
 
-.a_up {
-  top: 201px;
+.a__up {
+  top: 200px;
 }
 
 @media (min-width: 320px) and (max-width: 400px) {
