@@ -107,3 +107,51 @@ a:hover {
   top: -140px;
   margin-left: 9%;
 }
+
+.a_up {
+  top: 200px;
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+  * {
+    font-size: 16px;
+  }
+
+  .main_up_wrapper {
+    margin-right: 6%;
+  }
+
+  .main_wrapper {
+    margin-bottom: 0;
+  }
+
+  .black_img {
+    width: 160px;
+    top: 50px;
+  }
+
+  a {
+    font-size: 12px;
+    width: 100px;
+    top: 25px;
+  }
+
+  .a_up {
+    top: 35px;
+  }
+
+  .main_black {
+    width: 100px;
+    padding: 50px 80px 50px 50px;
+    font-size: 20px;
+  }
+
+  .main_img {
+    width: 160px;
+  }
+
+  .desc {
+    margin-top: 21%;
+    margin-right: 0;
+  }
+}
