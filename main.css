@@ -122,36 +122,41 @@ a:hover {
   }
 
   .main_wrapper {
-    margin-bottom: 0;
+    margin-bottom: 35%;
+    width: 100%;
   }
 
   .black_img {
     width: 160px;
     top: 50px;
+    left: -1px;
   }
 
   a {
     font-size: 12px;
     width: 100px;
-    top: 25px;
+    top: 130px;
   }
 
   .a__up {
-    top: 35px;
+    top: 140px;
   }
 
   .main_black {
     width: 100px;
-    padding: 50px 80px 50px 50px;
+    padding: 50px 110px 50px 50px;
     font-size: 20px;
   }
 
   .main_img {
     width: 160px;
+    top: 100px;
   }
 
   .desc {
-    margin-top: 21%;
+    font-size: 12px;
+    margin-top: 61%;
     margin-right: 0;
+    width: 200px;
   }
 }
